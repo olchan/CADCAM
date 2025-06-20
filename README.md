@@ -1,4 +1,4 @@
-# CADCAM
+# CADCAM IE410-00
 Siemens NX를 활용한 3D 모델링, Assembly, 3D Printer를 통한 프로토타입 제작부터 CAD 설계에 대한 이론부터 Dreamfusion, Diffusion, SDS loss 등의 생성형 AI를 통한 3D 설계에 대한 이론을 학습하여 3D 설계 능력을 향상시키고, 제품 설계부터 제작까지의 전 과정에 대해 배운다.
 
 > ## **1차 발표 : Early phase Design**
